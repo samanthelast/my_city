@@ -7,6 +7,7 @@ void main() {
         accentColor: Colors.orangeAccent,
         primaryColor: Colors.orange,
         primarySwatch: Colors.orange),
+        debugShowCheckedModeBanner: false,
     home: new Splash(),
   ));
 }
